@@ -1,0 +1,34 @@
+{
+  "team": [
+    {
+      "id": "0",
+      "profile": "user",
+      "name": "employee 1",
+      "position": "chief visioneer"
+    },
+    {
+      "id": "1",
+      "profile": "user",
+      "name": "employee 2",
+      "position": "wielder of the wand"
+    },
+    {
+      "id": "2",
+      "profile": "user",
+      "name": "employee 3",
+      "position": "chief visioneer surrey"
+    },
+    {
+      "id": "3",
+      "profile": "user",
+      "name": "employee 4",
+      "position": "kitchen maestro"
+    },
+    {
+      "id": "4",
+      "profile": "user",
+      "name": "employee 4",
+      "position": "kitchen maestro"
+    }
+  ]
+}

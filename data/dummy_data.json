@@ -1,0 +1,186 @@
+{
+  "menu": [
+    {
+      "id": 0,
+      "image": "6",
+      "title": "BBQs",
+      "description": "There are lots of options to celebrate or to help express your appreciation for staff, tenants or clients.",
+      "url": "/"
+    },
+    {
+      "id": 1,
+      "image": "7",
+      "title": "Beverages & Bar Service",
+      "description": "We've got beverages hot and cold. Our certified bartenders are experienced professionals who posses premium service skills.",
+      "url": "/"
+    },
+    {
+      "id": 2,
+      "image": "3",
+      "title": "Buffets",
+      "description": "Choose from a variety of hot food options. Select one of our popular pre-set menus or create your own from our distinctive courses.",
+      "url": "/"
+    },
+    {
+      "id": 3,
+      "image": "2",
+      "title": "Canapés, Stations & Platters",
+      "description": "There is a wide selection to create either a full meal or a light cocktail reception. Clients rave about our pleasently polite and professional service staff.",
+      "url": "/"
+    },
+    {
+      "id": 4,
+      "image": "5",
+      "title": "Celebrations of Life & Memorials",
+      "description": "For your convenience, we have highlighted our most popular combinations. You may want to select one of them and personalize it our create your own from our á la carte items.",
+      "url": "/"
+    },
+    {
+      "id": 5,
+      "image": "1",
+      "title": "Desserts",
+      "description": "Our selection of tasty á la carte items, dessert buffets, and build-your-own stations are perfect for every occasion.",
+      "url": "/"
+    }
+  ],
+  "info": [
+    {
+      "id": 1,
+      "title": "We care",
+      "content": [
+        {
+          "span": "We care for the clients we serve",
+          "text": "Our goal as a trusted Metro vancouver catering is to help make your meeting or event the best it can be."
+        },
+        {
+          "span": "We care for the enviroment we live in",
+          "text": "With that in view, earth stewardship affects the daily choices and decisions we make."
+        },
+        {
+          "span": "We care for the team we work with",
+          "text": "With this in mind, we're committed to an environment where all our staff can develop and flourish."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "We create",
+      "content": [
+        {
+          "span": "Quality",
+          "text": "ingredients, proven recipes and professional staff are what go into our food."
+        },
+        {
+          "span": "We are caterers",
+          "text": "Therefore, everything we do, from recipe design to shopping, preparation, cooking, presentation and serving is done with catering in mind. "
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "We deliver",
+
+      "content": [
+        {
+          "span": "What you want",
+          "text": "Our food will always meet or exceed your expectations."
+        },
+        {
+          "span": "Where you want it",
+          "text": "with kitchens in Vancouver and Surrey and a fleet of delivery vehicles, we’ll get the yum to your meeting or event anywhere from West Vancouver to Abbotsford."
+        },
+        {
+          "span": "When you want it",
+          "text": "you're on a tight schedule and we are too — yours."
+        },
+        {
+          "span": "How you want it",
+          "text": "the right temperature and texture, looking good, tasting great and delivered with a smile.  "
+        }
+      ]
+    }
+  ],
+  "clients": [
+    {
+      "id": "1",
+      "title": "bc nurses",
+      "logo": "/images/clients/1.png",
+      "link": "/"
+    },
+    {
+      "id": "2",
+      "title": "Bentall Green Oak",
+      "logo": "/images/clients/2.png",
+      "link": "/"
+    },
+    {
+      "id": "3",
+      "title": "E-Comm 911",
+      "logo": "/images/clients/3.png",
+      "link": "/"
+    },
+    {
+      "id": "4",
+      "title": "Golder",
+      "logo": "/images/clients/4.png",
+      "link": "/"
+    },
+    {
+      "id": "5",
+      "title": "Hilti",
+      "logo": "/images/clients/5.jpg",
+      "link": "/"
+    },
+    {
+      "id": "6",
+      "title": "Parkland",
+      "logo": "/images/clients/parkland.png",
+      "link": "/"
+    },
+    {
+      "id": "7",
+      "title": "SEASPAN",
+      "logo": "/images/clients/7.png",
+      "link": "/"
+    },
+    {
+      "id": "8",
+      "title": "SFU",
+      "logo": "/images/clients/8.png",
+      "link": "/"
+    },
+    {
+      "id": "9",
+      "title": "Stantec",
+      "logo": "/images/clients/9.png",
+      "link": "/"
+    },
+    {
+      "id": "10",
+      "title": "University of British Columbia",
+      "logo": "/images/clients/10.png",
+      "link": "/"
+    },
+    {
+      "id": "11",
+      "title": "UBCP/ACTRA",
+      "logo": "/images/clients/11.jpg",
+      "link": "/"
+    },
+    {
+      "id": "12",
+      "title": "VSB - Vancouver School District",
+      "logo": "/images/clients/12.png",
+      "link": "/"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 0,
+      "client": "Linda Rogers",
+      "location": "Vancouver, BC",
+      "date": "May 2023",
+      "content": "I just wanted to say thank you for the wonderful food and service you provided for our event. The food was delicious and the service was excellent. I received many compliments on the food and the service. I will definitely recommend you to others and will use your services again in the future. Thank you again for helping to make our event a success."
+    }
+  ]
+}
