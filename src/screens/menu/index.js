@@ -26,28 +26,11 @@ function MenuPage() {
             </Link>
             .
           </p>
-          <ul className="mt-20 flex flex-col gap-y-10 items-center">
-            <li className="w-[50vw] flex gap-x-10">
-              <Image src={"/images/1.jpg"} alt="" width={200} height={200} />
-              <div>
-                <h5 className="uppercase font-normal">breakfast</h5>
-                <p>start your day off right!</p>
-              </div>
-            </li>
-            <li className="w-[50vw] flex gap-x-10">
-              <Image src={"/images/2.jpg"} alt="" width={200} height={200} />
-              <div>
-                <h5 className="uppercase font-normal">sandwich & wraps</h5>
-                <p>Gourmet - hot and cold made fresh, hand-crafted</p>
-              </div>
-            </li>
-            <li className="w-[50vw] flex gap-x-10">
-              <Image src={"/images/4.jpg"} alt="" width={200} height={200} />
-              <div>
-                <h5 className="uppercase font-normal">sides & snacks</h5>
-                <p>customize your meal create your own package</p>
-              </div>
-            </li>
+
+          <h5 className="mt-20 capitalize text-2xl font-header">1. Drop-Off Menus</h5>
+          
+          <ul className="mt-10 flex flex-col gap-y-10 items-center">
+            
           </ul>
         </section>
       </main>

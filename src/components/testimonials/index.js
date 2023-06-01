@@ -10,7 +10,7 @@ function TestimonialSection(props) {
       <ul>
         {props.testimonials.map((testimonial) => (
           <li key={testimonial.id} className="flex flex-col items-center px-10 lg:flex-row gap-10 justify-center">
-            <Image src="/images/2.jpg" alt="" width={300} height={400} />
+            <img src={`/images/`+testimonial.image} alt="" width={400} height={400} />
             <div className="lg:w-1/3">
               <h5 className="text-2xl pb-4 font-header">
                 {testimonial.client}

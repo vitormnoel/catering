@@ -3,7 +3,7 @@ import Link from "next/link";
 
 function NavBar() {
   return (
-    <div className="w-full shadow-sm flex items-center place-content-around pt-8 pb-2 bg-white top-0 fixed z-10">
+    <div className="w-full shadow-sm flex items-center place-content-around pt-8 pb-2 backdrop-blur-sm bg-white/50 top-0 fixed z-10">
       <h1>
         <Image
           src={"/images/waiter.png"}
@@ -31,7 +31,7 @@ function NavBar() {
         </ul>
       </nav>
       <p
-        className="cursor-pointer text-blue-logo hover:bg-blue-logo hover:text-white uppercase border-2 border-blue-logo px-4 p-2 rounded-lg duration-300 transition"
+        className="cursor-pointer text-blue-logo hover:bg-blue-logo hover:text-white uppercase border-2 border-blue-logo px-4 p-2 duration-300 transition"
       >
         request a quote
       </p>

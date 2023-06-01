@@ -22,16 +22,21 @@ function CateringMenus(props) {
         <ul className="flex flex-col md:flex-row flex-wrap justify-center items-center gap-10 mt-28">
           {props.menus.map((menu) => (
             <li key={menu.id} className="">
-              <Link href="/">
-                <div className="relative overflow-hidden">
-                  <img src={`/images/${menu.image}.jpg`} className="w-[300px] h-[300px] object-cover" />
+              <div className="relative overflow-hidden">
+                <img
+                  src={`/images/${menu.image}.jpg`}
+                  className="w-[300px] h-[300px] object-cover"
+                />
+                <div className="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-black bg-fixed opacity-50" />
 
-                  <div className="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-black bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-20"></div>
+                <div className="absolute w-full py-2 px-4 top-[40%] text-white text-center">
+                  <h5 className="font-semibold text-lg" >{menu.title}</h5>
+                  <br />
+                  <Link href="/" className="mt-4 px-4 py-2 uppercase hover:bg-white/90 hover:text-black duration-300 bg-white/30">
+                    learn more
+                  </Link>
                 </div>
-              </Link>
-              <h5 className="mt-2 text-center text-lg text-whitez-50">
-                {menu.title}
-              </h5>
+              </div>
             </li>
           ))}
         </ul>

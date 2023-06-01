@@ -2,7 +2,7 @@
   "menu": [
     {
       "id": 0,
-      "image": "6",
+      "image": "5",
       "title": "BBQs",
       "description": "There are lots of options to celebrate or to help express your appreciation for staff, tenants or clients.",
       "url": "/"
@@ -16,28 +16,28 @@
     },
     {
       "id": 2,
-      "image": "3",
+      "image": "10",
       "title": "Buffets",
       "description": "Choose from a variety of hot food options. Select one of our popular pre-set menus or create your own from our distinctive courses.",
       "url": "/"
     },
     {
       "id": 3,
-      "image": "2",
+      "image": "9",
       "title": "Canapés, Stations & Platters",
       "description": "There is a wide selection to create either a full meal or a light cocktail reception. Clients rave about our pleasently polite and professional service staff.",
       "url": "/"
     },
     {
       "id": 4,
-      "image": "5",
+      "image": "11",
       "title": "Celebrations of Life & Memorials",
       "description": "For your convenience, we have highlighted our most popular combinations. You may want to select one of them and personalize it our create your own from our á la carte items.",
       "url": "/"
     },
     {
       "id": 5,
-      "image": "1",
+      "image": "12",
       "title": "Desserts",
       "description": "Our selection of tasty á la carte items, dessert buffets, and build-your-own stations are perfect for every occasion.",
       "url": "/"
@@ -177,6 +177,7 @@
   "testimonials": [
     {
       "id": 0,
+      "image": "client.jpg",
       "client": "Linda Rogers",
       "location": "Vancouver, BC",
       "date": "May 2023",

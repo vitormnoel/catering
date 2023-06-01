@@ -17,6 +17,7 @@ function Clients(props) {
                 width={100}
                 height={50}
                 style={{ width: 100, height: 40 }}
+                priority={true}
               />
             </Link>
           </li>

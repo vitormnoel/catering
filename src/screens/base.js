@@ -5,7 +5,7 @@ import Footer from "../components/footer";
 function Page({ children }) {
   return (
     <Fragment>
-      <Header />
+      <Header banner={true}/>
       <main className="overflow-hidden">{children}</main>
       <Footer />
     </Fragment>
