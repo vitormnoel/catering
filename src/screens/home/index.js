@@ -9,7 +9,7 @@ import TestimonialSection from "../../components/testimonials";
 
 function HomePage(props) {
   return (
-    <Page>
+    <Page banner={true}>
       <CateringMenus menus={props.menus} />
       <Info content={props.info} />
       <Clients client={props.client} />

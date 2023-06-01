@@ -1,4 +1,6 @@
 import { Fragment } from "react";
+import Image from "next/image";
+
 import NavBar from "../../components/navbar";
 import Footer from "../../components/footer";
 
@@ -25,21 +27,35 @@ function CateredPage() {
             like rentals of tables, chairs, plates, etc., we know where to find
             them and are happy to arrange that as well. We love catering events!
           </p>
-          <ul className="mt-20 py-10 flex flex-wrap gap-10 items-center justify-center">
-            <li className="text-center">
-                <div className="bg-stone-100 w-[300px] h-[300px]"/>
-                <h5 className="capitalize text-xl mt-4 mb-2">Conferences & Meetings</h5>
-                <a href="/" blank="_target" className="font-normal capitalize bg-blue-logo hover:bg-blue-800 duration-300 py-2 px-4 rounded-lg text-white">catering for conferences</a>
+          <ul className="mt-20 grid grid-cols-2 items-center place-content-center place-items-center">
+            <li>
+              <Image
+                src="/images/vancouver.jpg"
+                height={800}
+                width={800}
+                className="object-fill max-h-[40vh] max-w-[30vw]"
+                alt=""
+              />
+
+              <div className="text-center">
+                <h5 className="font-header text-xl pt-4">Venues</h5>
+                <p>There's a great place for your event in Metro Vancouver!</p>
+              </div>
             </li>
-            <li className="text-center">
-                <div className="bg-stone-100 w-[300px] h-[300px]"/>
-                <h5 className="capitalize text-xl mt-4 mb-2">Our BBQs Sizzle</h5>
-                <a href="/" blank="_target" className="font-normal capitalize bg-blue-logo hover:bg-blue-800 duration-300 py-2 px-4 rounded-lg text-white">BBQ catering</a>
-            </li>
-            <li className="text-center">
-                <div className="bg-stone-100 w-[300px] h-[300px]"/>
-                <h5 className="capitalize text-xl mt-4 mb-2">Celebrations of life & memorials</h5>
-                <a href="/" blank="_target" className="font-normal capitalize bg-blue-logo hover:bg-blue-800 duration-300 py-2 px-4 rounded-lg text-white">catering for memorials</a>
+
+            <li>
+              <Image
+                src="/images/catering.jpg"
+                height={800}
+                width={800}
+                className="object-fill max-h-[40vh] max-w-[30vw]"
+                alt=""
+              />
+
+              <div className="text-center">
+                <h5 className="font-header text-xl pt-4">Venues</h5>
+                <p>There's a great place for your event in Metro Vancouver!</p>
+              </div>
             </li>
           </ul>
         </section>

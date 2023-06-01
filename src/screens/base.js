@@ -2,11 +2,11 @@ import { Fragment } from "react";
 import Header from "../components/header";
 import Footer from "../components/footer";
 
-function Page({ children }) {
+function Page({ children, banner }) {
   return (
     <Fragment>
-      <Header banner={true}/>
-      <main className="overflow-hidden">{children}</main>
+      <Header banner={banner}/>
+      <main className="overflow-hidden font-thin">{children}</main>
       <Footer />
     </Fragment>
   );
