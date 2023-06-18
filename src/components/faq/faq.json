@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "title": "How early do I need to order?",
+        "answer": "As early as possible. (Unless you're planning a 50th birthday party for your unborn child — then you can wait.) Because of our reputation and longstanding relationships, our dates fill up quickly. However, even if you're In a time crunch and need food in just a couple days, don't hesitate to contact us. We may ask you to be a little flexible as to time and menu, but we will do our best to fit you in."
+    },
+    {
+        "id": 1,
+        "title": "What if I don't have all the details?",
+        "answer": "Connect with one of our catering consultants. You can get the date secured and they will tell you when we need the details. Check out our handy guide to meetings and events and browse our menus. They provide valuable information on the options available."
+    },
+    {
+        "id": 2,
+        "title": "I need food, but I'm not sure what I want or how it should be served. Can you help me?",
+        "answer": "Of course we can. We have many years of serving the right food tailored to a wide variety of meetings and events. That's why our customers trust us. Feel free to discuss your unique needs with one of our catering consultants."
+    },
+    {
+        "id": 3,
+        "title": "Why can't you provide food for today like restaurants do?",
+        "answer": "We are not a restaurant. Our creating, preparing and serving food has a very different process. Restaurants focus on getting individual portions of food to the table in their dining room or ready to be picked up at their counter or door. We focus on getting food for multiple people ready to be served in the location you choose. We provide what you want, where, when and how you want it. That takes more planning and organization."
+    },
+    {
+        "id": 4,
+        "title": "What kind of dietary restrictions can you accommodate?",
+        "answer": "Dietary needs come in all shapes and sizes. We offer gluten-free, vegetarian, and vegan menu choices. We can offer alternatives for guests who have specific food allergies, and can make suggestions for specialty diets such as paleo, Gluten-free & Vegan. Talk to us about your needs any time. If you're ordering online, be sure to select the specific options you want. However you order, tell us the name of the people and what they need or cannot have. We'll prepare it and make sure it is clearly labelled."
+    },
+    {
+        "id": 5,
+        "title": "What are you doing to protect the environment?",
+        "answer": "We take our roles as stewards of the environment seriously — for ourselves, our neighbours and future generations. Check out what we do for sustainability here."
+    }
+]

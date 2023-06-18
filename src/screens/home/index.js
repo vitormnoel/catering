@@ -1,11 +1,11 @@
 import Page from "../base";
-import CateringMenus from "../../components/catering-menus";
-import Info from "../../components/info";
-import Newsletter from "../../components/news";
-import Clients from "../../components/clients";
-import VideoSection from "../../components/video";
-import LocationSection from "../../components/location";
-import TestimonialSection from "../../components/testimonials";
+import CateringMenus from "../../components/catering-menus/catering-component";
+import Info from "../../components/info/info-component";
+import Newsletter from "../../components/news/news-component";
+import Clients from "../../components/clients/clients-component";
+import VideoSection from "../../components/video/video-component";
+import LocationSection from "../../components/location/location-component";
+import TestimonialSection from "../../components/testimonials/testimonials-component";
 
 function HomePage(props) {
   return (

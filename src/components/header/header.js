@@ -1,5 +1,4 @@
-import NavBar from "../navbar";
-import Head from "next/head";
+import NavBar from "../navbar/navbar";
 import Banner from "./banner";
 
 function Header({ banner }) {

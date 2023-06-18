@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@headlessui/react": "^1.7.15",
     "fs": "^0.0.1-security",
     "google-fonts-plugin": "^5.0.2",
     "next": "^13.4.1",

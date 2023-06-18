@@ -1,0 +1,58 @@
+{
+    "locations": [
+        {
+            "id": 0,
+            "image": "l1",
+            "name": "Rocky Mountaineer Station",
+            "location": "Vancouver, BC"
+        },
+        {
+            "id": 1,
+            "image": "l2",
+            "name": "Science World",
+            "location": "Vancouver, BC"
+        },
+        {
+            "id": 2,
+            "image": "l3",
+            "name": "UBC Farms",
+            "location": "Vancouver, BC"
+        },
+        {
+            "id": 3,
+            "image": "l4",
+            "name": "Vancouver Rowing Club",
+            "location": "Vancouver, BC"
+        },
+        {
+            "id": 4,
+            "image": "l5",
+            "name": "Museum of Vancouver",
+            "location": "Vancouver, BC"
+        },
+        {
+            "id": 5,
+            "image": "l6",
+            "name": "UBC Bouthouse",
+            "location": "Vancouver, BC"
+        },
+        {
+            "id": 6,
+            "image": "l7",
+            "name": "The Pipeshop Venue",
+            "location": "Vancouver, BC"
+        },
+        {
+            "id": 7,
+            "image": "l8",
+            "name": "Nikkei Centre",
+            "location": "Vancouver, BC"
+        },
+        {
+            "id": 8,
+            "image": "l9",
+            "name": "SFU Surrey",
+            "location": "Surrey, BC"
+        }
+    ]
+}

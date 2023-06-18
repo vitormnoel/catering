@@ -32,7 +32,7 @@ function CateringMenus(props) {
                 <div className="absolute w-full py-2 px-4 top-[40%] text-white text-center">
                   <h5 className="font-semibold text-lg" >{menu.title}</h5>
                   <br />
-                  <Link href="/" className="mt-4 px-4 py-2 uppercase hover:bg-white/90 hover:text-black duration-300 bg-white/30">
+                  <Link href="/files/menu.pdf" target="_blank" className="mt-4 px-4 py-2 uppercase hover:bg-white/90 hover:text-black duration-300 bg-white/30">
                     learn more
                   </Link>
                 </div>

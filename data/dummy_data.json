@@ -182,6 +182,22 @@
       "location": "Vancouver, BC",
       "date": "May 2023",
       "content": "I just wanted to say thank you for the wonderful food and service you provided for our event. The food was delicious and the service was excellent. I received many compliments on the food and the service. I will definitely recommend you to others and will use your services again in the future. Thank you again for helping to make our event a success."
+    },
+    {
+      "id": 1,
+      "image": "food_4.jpg",
+      "client": "Vitor Manoel",
+      "location": "Surrey, BC",
+      "date": "June 2023",
+      "content": "I wanna say thank you."
+    },
+    {
+      "id": 2,
+      "image": "client.jpg",
+      "client": "Bella Rogers",
+      "location": "Vancouver, BC",
+      "date": "May 2023",
+      "content": "I just wanted to say thank you for the wonderful food and service you provided for our event."
     }
   ]
 }

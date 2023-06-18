@@ -13,7 +13,7 @@ function Menu(props) {
         Please take a look at the events catering menus you feel best suit the
         event you are creating. Feel free to{" "}
         <Link
-          href={"/"}
+          href={"/contact"}
           className="hover:text-blue-logo duration-300 transition underline underline-offset-4"
         >
           contact our Catering Consultants
@@ -46,6 +46,7 @@ function Menu(props) {
                 <div className="text-end mt-10">
                   <Link
                     href={item.url}
+                    target="_blank"
                     className="uppercase border-2 px-4 py-2 border-black hover:border-blue-logo hover:text-blue-logo duration-300"
                   >
                     learn more
