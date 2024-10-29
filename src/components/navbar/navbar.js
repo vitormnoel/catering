@@ -46,7 +46,7 @@ function NavBar() {
       </h1>
 
       <nav>
-        <ul className="flex gap-10 text-md uppercase font-thin text-slate-700 hidden md:block">
+        <ul className="hidden md:flex gap-10 text-md uppercase font-thin text-slate-700">
           {links.map((link, index) => (
             <li key={index}>
               <Link
